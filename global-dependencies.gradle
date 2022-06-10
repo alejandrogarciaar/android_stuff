@@ -1,0 +1,17 @@
+def androidx = [:]
+androidx.core = "1.8.0"
+androidx.appcompat = "1.4.2"
+ext.androidx = androidx
+
+def google = [:]
+google.material = "1.6.1"
+ext.google = google
+
+def test = [:]
+test.junit = "4.13.2"
+ext.test = test
+
+def instrumentation = [:]
+instrumentation.junit = "1.1.3"
+instrumentation.espresso = "3.4.0"
+ext.instrumentation = instrumentation

@@ -1,0 +1,5 @@
+def config = [:]
+config.minSdk = 23
+config.targetSdk = 32
+config.compileSdk = 32
+ext.config = config

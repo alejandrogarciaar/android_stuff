@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AndroidStuff</string>
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="broadcast_start_example_1">Start Example 1</string>
+    <string name="broadcast_start_example_2">Start Example 2</string>
+    <string name="broadcast_start_example_3">Start Example 3</string>
+    <string name="fragment">Fragments</string>
+    <string name="intent_service">Intent Service</string>
+    <string name="pending_intent">Pending Intent</string>
+    <string name="work_manager">Work Manager</string>
+    <string name="service">Service</string>
 </resources>
